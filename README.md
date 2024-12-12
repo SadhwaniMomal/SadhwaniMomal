@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 Welcome to My GitHub Profile!
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> 
 
 - 🔭 I’m currently working on [Frontend Projects](https://codepro.com.pk/)
 - 🌱 I’m learning **React & React Frameworks** to build powerful and dynamic web applications.
