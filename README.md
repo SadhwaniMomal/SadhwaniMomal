@@ -43,9 +43,8 @@
 </p>
 
 ### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadhwanimomal&theme=radical" alt="sadhwanimomal streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhwanimomal&" alt="sadhwanimomal" /></p>
+
 
 ### ⚡ Fun Facts:
 - I love learning new frameworks and solving coding challenges.
