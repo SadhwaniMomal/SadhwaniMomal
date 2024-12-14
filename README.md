@@ -18,7 +18,7 @@
 
 ### 🌍 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/moomal-sadhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moomal sadhwani" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/moomal-sadhwani-495604233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moomal sadhwani" height="30" width="40" /></a>
   
 </p>
 
