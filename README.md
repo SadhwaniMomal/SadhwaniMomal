@@ -11,7 +11,7 @@
 > 
 
 - 🔭 I’m currently working on [Frontend Projects](https://codepro.com.pk/)
-- 🌱 I’m learning **React & React Frameworks** to <br> build powerful and dynamic web applications.
+- 🌱 I’m learning **React & React Frameworks** to build powerful and dynamic web applications.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sadhwanimomal.github.io/My-portfolio/)
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 - 📫 Reach me via **sadhwanimoomal987@gmail.com**
