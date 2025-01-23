@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moomal Sadhwani</h1>
 <h3 align="center">Frontend Developer | Crafting seamless user experiences</h3>
 
-<img align="right" alt="Codin" width="400" src="https://raw.githubusercontent.com/SadhwaniMomal/coding_animated_gif/refs/heads/main/gif.gif">
+<img align="right" alt="Codin" width="300" src="https://raw.githubusercontent.com/SadhwaniMomal/coding_animated_gif/refs/heads/main/gif.gif">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadhwanimomal&label=Profile%20views&color=0e75b6&style=flat" alt="sadhwanimomal" />
