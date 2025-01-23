@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moomal Sadhwani</h1>
 <h3 align="center">Frontend Developer | Crafting seamless user experiences</h3>
 
-<img align="right" alt="Codin" width="300" src="https://raw.githubusercontent.com/SadhwaniMomal/coding_animated_gif/refs/heads/main/gif.gif">
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sadhwanimomal&label=Profile%20views&color=0e75b6&style=flat" alt="sadhwanimomal" />
@@ -17,7 +17,7 @@
 - 📫 Reach me via **sadhwanimoomal987@gmail.com**
 - 📄 My experiences on [LinkedIn](https://www.linkedin.com/in/moomal-sadhwani-495604233)
 - ⚡ Fun fact: **I enjoy turning complex ideas into simple, fun solutions!**
-
+<img align="right" alt="Codin" width="300" src="https://raw.githubusercontent.com/SadhwaniMomal/coding_animated_gif/refs/heads/main/gif.gif">
 ### 🌍 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/moomal-sadhwani-495604233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moomal sadhwani" height="30" width="40" /></a>
