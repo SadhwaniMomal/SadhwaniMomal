@@ -12,6 +12,14 @@
 
 ---
 
+<h3 align="center">👀 Profile Views</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SadhwaniMomal&color=blue" alt="Profile views" />
+</div>
+
+---
+
 <h1 align="center">Hey there 👋</h1>
 
 ---
@@ -53,27 +61,5 @@
 </div>
 
 ---
-
-<h3 align="center">👀 Profile Views</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SadhwaniMomal&color=blue" alt="Profile views" />
-</div>
-
----
-
-<h3 align="center">📝 Latest Medium Articles</h3>
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=SadhwaniMomal" alt="Latest Medium Posts" />
-</div>
-
----
-
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
-
-<div align="center">
-  <img src="https://github.com/SadhwaniMomal/SadhwaniMomal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
