@@ -69,3 +69,11 @@
 </div>
 
 ---
+
+<h3 align="center">🐍 GitHub Contribution Snake</h3>
+
+<div align="center">
+  <img src="https://github.com/SadhwaniMomal/SadhwaniMomal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
