@@ -61,7 +61,7 @@
 
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+<img src="https://img.shields.io/badge/GitHub%20Streak-Moomal%20Sadhwani-brightgreen?logo=github&style=for-the-badge" />
 
 ---
 
