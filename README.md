@@ -3,8 +3,7 @@
 <div align="center">
   <img src="https://github.com/SadhwaniMomal/SadhwaniMomal/blob/main/GitHub-Banner.png" alt="DevOpsShack Banner">
 </div>
-
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">PHP/Laravel Developer | Frontend + Backend | Mentor</h3>
 
 <p align="center">
   <a href="https://github.com/SadhwaniMomal">
@@ -13,9 +12,10 @@
   <!-- <a href="https://www.youtube.com/@devopsshack">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a> -->
-  <a href="https://www.linkedin.com/in/moomal-sadhwani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
-  </a>
+ <a href="https://www.linkedin.com/in/moomal-sadhwani/">
+    <img src="https://img.shields.io/badge/LinkedIn-Moomal%20Sadhwani-blue?logo=linkedin&style=flat-square" />
+</a>
+
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -78,4 +78,4 @@
 💼 Offering **Web Development Consulting / Mentorship**  
 📧 Let’s chat: [sadhwanimoomal987@gmail.com](mailto:sadhwanimoomal987@gmail.com)
 
-> _"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"_
+> _"Helping people master web development with real-world skills. Let’s build and optimize the future, one website at a time!"_
